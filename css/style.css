@@ -1,0 +1,15 @@
+h1{
+    border: solid 3px olivedrab;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cifrao{
+    color: green;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+    padding: 10px 0px;
+}
